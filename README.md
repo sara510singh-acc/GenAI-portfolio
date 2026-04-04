@@ -37,8 +37,11 @@ Personalized travel plan
 - GitHub
 
 ### Author
-Your Name
+
+Sara Singh
+
 B.Tech CSE
+
 Generative AI Projects Portfolio
 
 ## Note
