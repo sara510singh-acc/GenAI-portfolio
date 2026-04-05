@@ -1,17 +1,17 @@
-### Review Sentiment Analysis
+## Review Sentiment Analysis
 
 
-## Description
+### Description
 
 This project is a Generative AI-based sentiment analysis system that classifies reviews into Good, Average, or Bad using prompt engineering and NLP.
 
 
-## Objective
+### Objective
 
 To analyze customer reviews and automatically determine sentiment (Good/Average/Bad).
 
 
-## Features
+### Features
 
 Sentiment classification
 
@@ -22,7 +22,7 @@ Rule-based prompt for accuracy
 Simple user input interface
 
 
-## Technologies Used
+### Technologies Used
 
 Python
 
@@ -35,6 +35,6 @@ NLP
 Google Colab
 
 
-## How It Works
+### How It Works
 
 User enters a review → AI analyzes sentiment → AI outputs Good / Average / Bad.
