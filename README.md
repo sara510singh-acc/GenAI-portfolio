@@ -12,6 +12,8 @@ An AI assistant that generates structured timetables for 3rd year B.Tech student
 
 ### 3. AI Math Tutor
 A conversational AI tutor that helps students solve math problems step-by-step by giving hints and guidance instead of directly providing the answer.
+
+
 Features:
 
 Step-by-step hints
@@ -21,6 +23,7 @@ Does not reveal direct answer
 
 ### 4. Conversational Travel Itinerary Generator
 A conversational AI agent that generates customized travel itineraries based on user constraints such as budget, destination, number of people, and number of days.
+
 
 Features:
 
@@ -43,6 +46,7 @@ Sara Singh
 B.Tech CSE
 
 Generative AI Projects Portfolio
+
 
 ## Note
 All API keys are stored securely using environment variables and are not uploaded to GitHub.
