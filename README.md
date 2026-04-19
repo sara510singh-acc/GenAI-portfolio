@@ -1,4 +1,4 @@
-# 🤖 Generative AI Portfolio — Sara Singh
+# 🤖 Generative AI Portfolio
 
 > A hands-on learning portfolio built across a 10-day Generative AI workshop.  
 > **B.Tech CSE (Final Year)** | Exploring the intersection of AI, automation, and real-world application.
@@ -13,7 +13,7 @@ This isn't a polished product portfolio — it's an honest record of learning, e
 
 ---
 
-## 📁 Projects Overview
+##  Projects Overview
 
 | # | Project | Key Concepts | Stack |
 |---|---------|--------------|-------|
@@ -31,7 +31,7 @@ This isn't a polished product portfolio — it's an honest record of learning, e
 
 ---
 
-## 🔍 Project Details
+##  Project Details
 
 ### 1. Data Science Domain-Restricted Assistant
 **`/data-science-assistant`**
@@ -143,7 +143,7 @@ A second workshop case study, with a context file referencing Hindustan College 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Language:** Python
 - **Notebooks:** Jupyter / Google Colab
@@ -154,7 +154,7 @@ A second workshop case study, with a context file referencing Hindustan College 
 
 ---
 
-## 📈 Phase 3 — Learning Reflection
+##  Phase 3 — Learning Reflection
 
 ### From Computer Networks to Generative AI
 
@@ -173,9 +173,8 @@ Networks taught me to think about **systems**: inputs, outputs, protocols, and f
 | **Structured Generation** | Getting LLMs to produce consistent, formatted outputs |
 | **App Development** | Moving from notebooks to Streamlit-based deployable apps |
 
-### Where This Sits in Today's Tech Landscape
+### Features
 
-The projects in this portfolio align with some of the most active areas in AI right now:
 
 - **AI Agents & Assistants** — the domain-restricted assistant and math tutor are early versions of the kind of scoped, reliable agents being built in industry today
 - **RAG and Context Design** — understanding prompt boundaries is the precursor to building Retrieval-Augmented Generation systems
@@ -197,12 +196,12 @@ All API keys are stored using environment variables and are **not committed to t
 
 ---
 
-## 👤 Author
+##  Author
 
 **Sara Singh**  
 B.Tech — Computer Science & Engineering (Final Year)  
-*Generative AI Workshop Portfolio — 2025*
+*Generative AI Workshop Portfolio*
 
 ---
 
-*Built with curiosity, a 10-day deadline, and a lot of notebook restarts.*
+*Built with curiosity, and a lot of notebook restarts.*
