@@ -204,4 +204,3 @@ B.Tech — Computer Science & Engineering (Final Year)
 
 ---
 
-*Built with curiosity, and a lot of notebook restarts.*
